@@ -1,0 +1,44 @@
+.footer-main {
+  padding: 50px 0;
+}
+
+.footer-open {
+  text-align: center;
+  font-size: 25px;
+  background-color: #e88c38;
+  border-radius: 10px;
+  padding: 20px 5px;
+  font-weight: 500;
+}
+
+.footer-button {
+  font-size: 25px;
+  margin-top: 10px;
+  padding: 10px;
+  background-color: #e88c38;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  max-width: 200px;
+  font-weight: 500;
+  border: none;
+  border-radius: 5px;
+  margin: 30px auto;
+  cursor: pointer;
+  transition: 0.3s all;
+}
+
+.footer-button:active {
+  transform: scale(0.95);
+}
+
+.footer-close {
+  text-align: center;
+  font-size: 25px;
+  background-color: black;
+  color: white;
+  border-radius: 10px;
+  padding: 20px 5px;
+  font-weight: 500;
+}

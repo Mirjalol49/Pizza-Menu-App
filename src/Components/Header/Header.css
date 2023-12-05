@@ -1,0 +1,13 @@
+.main-header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.header__title {
+  text-align: center;
+  font-weight: bold;
+  font-size: 100px;
+  color: #e88c38;
+  -webkit-text-stroke: 1px rgb(0, 0, 0);
+}
